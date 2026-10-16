@@ -1,0 +1,6 @@
+@Tienda_online.API_HostAddress = http://localhost:5083
+
+GET {{Tienda_online.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
